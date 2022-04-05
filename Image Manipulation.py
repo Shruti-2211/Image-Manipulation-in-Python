@@ -186,4 +186,5 @@ for i in range(0, img.size[0] - 1):
         img.putpixel((i,j), (negate_red_pixel, negate_green_pixel, negate_blue_pixel));
         
 img.show()
+
     
